@@ -41,7 +41,7 @@ CREATE TABLE students (
 - `update.php` - Edit student information
 - `delete.php` - Delete student record (with confirmation)
 
-## Features I Implemented
+## Features Implemented
 - ✅ Add new students with form validation
 - ✅ View all students in a sortable table
 - ✅ Edit student information
@@ -80,15 +80,6 @@ While working on this project, I learned:
 - Had to learn about PDO prepared statements for security
 - Making the delete confirmation modal work properly took some debugging
 
-## Future Improvements
-If I had more time, I would add:
-- Search functionality to find specific students
-- Pagination for large numbers of students
-- Export student list to Excel/PDF
-- User authentication system
-- Better error handling and logging
-- File upload for student photos
-
 ## Screenshots
 The system has a clean, modern interface with:
 - A welcoming homepage with quick action cards
@@ -97,10 +88,10 @@ The system has a clean, modern interface with:
 - Confirmation dialogs for important actions like deletion
 
 ## Course Information
-- **Subject**: Web Development / PHP Programming
+- **Subject**: ELPHP
 - **Activity**: CRUD Laboratory Exercise
-- **Semester**: [Your Semester]
-- **Academic Year**: 2025
+- **Date**: September 26, 2025
+- **Academic Year**: 2025-2026
 
 ---
 
